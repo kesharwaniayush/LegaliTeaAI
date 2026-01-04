@@ -646,7 +646,7 @@ const ANALYSIS_PROMPT = `
 
 ```bash
 # Clone the repository
-git clone https://github.com/omanandswami2005/gen-ai-exchange-hackthon-prototype-LegaliTea.git
+git clone https://github.com/kesharwaniayush/LegaliTeaAI.git
 cd legalitea
 
 # Install dependencies
