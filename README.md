@@ -364,7 +364,6 @@ curl -X POST http://localhost:3001/api/explain-term \
 
 ### **Development Team**
 
-- **Lead Developer**: omiii
 - **AI Integration**: DigitalOcean Gradient AI implementation
 - **UI/UX Design**: Custom animation system and responsive design
 - **Architecture**: Full-stack development and deployment
